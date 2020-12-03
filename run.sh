@@ -1,1 +1,3 @@
 date
+ll
+clear
